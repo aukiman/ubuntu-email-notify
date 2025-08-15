@@ -3,4 +3,4 @@
 One-line install:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<YOUR_GH_USER>/<YOUR_REPO>/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/aukiman/ubuntu-email-notify/main/install.sh | sudo bash
